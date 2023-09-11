@@ -1,0 +1,15 @@
+
+.countries {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+}
+.country-list {
+    list-style-type: none;
+}
+
+.country-attributes {
+    display: inline;
+}
+.country-attributes-value {
+    display: inline;
+}
